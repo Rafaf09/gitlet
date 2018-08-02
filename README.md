@@ -2,4 +2,4 @@
 Created a local version control system similar to git.
 
 Usage:
-java gitlet.Main [method] <params>
+java gitlet.Main [method] [params]
